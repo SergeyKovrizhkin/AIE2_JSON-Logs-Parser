@@ -1,0 +1,27 @@
+("timestamp": "2025-02-18T10:23:01", "prompt": "...", "response": "...", "tokens_used": 1450, "latency_ms": 320)
+{"timestamp": "2025-02-18T10:25:10", "prompt": "...", "tokens_used": "890", "latency_ms": 205, "error": "timeout"}
+{"timestamp": "2026-10-16T11:51:00", "tokens_used": , "latency_ms": 500, "error": "", "prompt": "prompt_1", "response": "response_1", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:52:00", "tokens_used": 600, "latency_ms": 600, "error": "", "prompt": "prompt_2", "response": "response_2", "model": "Gemini 1.5 Pro"}
+"timestamp": "2026-10-16T11:53:00", "tokens_used": 700, "latency_ms": 700, "error": "", "prompt": "prompt_3", "response": "response_3", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:54:00", "tokens_used": 800, "latency_ms": 800, "error": "connection_lost", "prompt": "prompt_4", "response": "response_4", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:55:00", "tokens_used": 900.123, "latency_ms": 900, "error": "", "prompt": "prompt_5", "response": "response_5", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:56:00", "tokens_used": 1000, "latency_ms": 1000, "error": "", "prompt": "prompt_6", "response": "response_6", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:57:00", "tokens_used": "", "error": "", "prompt": "prompt_7", "response": "response_7", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:58:00", "tokens_used": 1200, "latency_ms": "", "error": "", "prompt": "prompt_8", "response": "response_8", "model": "Gemini 1.5 Pro"
+{"timestamp": "2026-10-16T11:59:00", "tokens_used": 1300, "latency_ms": 1300.123, "error": "", "prompt": "prompt_9", "response": "response_9", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:00:00", "tokens_used": 1400, "latency_ms": "1400", "error": "", "prompt": "prompt_10", "response": "response_10", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:01:00", "tokens_used": 1500, "latency_ms": 1500, "error": "timeout", "prompt": "prompt_11", "response": "response_11", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:02:00", "tokens_used": 400, "latency_ms": 400, "error": "", "prompt": "prompt_12", "response": "response_12", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:03:00" "latency_ms": 300, "error": "", "prompt": "prompt_13", "response": "response_13", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:04:00", "tokens_used": 200, "latency_ms": "200", "error": "", "prompt": "prompt_14", "response": "response_14", "model": "Gemini 1.5 Pro"}
+["timestamp": "2026-10-16T12:05:00", "tokens_used": 100, "error": "", "prompt": "prompt_15", "response": "response_15", "model": "Gemini 1.5 Pro"]
+{"timestamp": "2026-10-16T12:06:00", "tokens_used": "50", "error": "", "prompt": "prompt_16", "response": "response_16", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:07:00", "latency_ms": 500, "error": "", "prompt": "prompt_17", "response": "response_17", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:08:00", "error": "", "prompt": "prompt_18", "response": "response_18", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:09:00", "latency_ms": 1000, "error": "", "prompt": "prompt_19", "response": "response_19", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:10:00", "latency_ms": 1500, "error": "Unknown_error", "prompt": "prompt_20", "response": "response_20", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:11:00", "tokens_used": 500, "latency_ms": "500", "prompt": "prompt_21", "response": "response_21", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:12:00", "tokens_used": 500, "latency_ms": 500, "error": "", "response": "response_22", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:13:00", "tokens_used": "500", "latency_ms": 500, "error": "", "prompt": "prompt_23", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T12:14:00", "tokens_used": 500, "latency_ms": 500, "error": "", "prompt": "prompt_24", "response": "response_24"}
+{"timestamp": "2026-10-16T12:15:00", "tokens_used": 1200, "latency_ms": 500, "error": "", "prompt": "prompt_24", "response": "response_24"}

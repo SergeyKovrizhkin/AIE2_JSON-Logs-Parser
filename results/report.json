@@ -1,0 +1,12 @@
+{
+    "total_entries": 0,
+    "filtered_entries": 0,
+    "token_threshold": 1000,
+    "total_tokens": 0,
+    "avg_latency_ms": 0,
+    "extra_latency_metric": {
+        "name": "max_latency_ms",
+        "value": 0
+    },
+    "errors_in_log_count": 0
+}

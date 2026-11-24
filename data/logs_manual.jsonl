@@ -1,0 +1,5 @@
+{"timestamp": "2025-02-18T10:23:01", "prompt": "...", "response": "...", "tokens_used": 1500, "latency_ms": 100}
+{"timestamp": "2025-02-18T10:25:10", "prompt": "...", "tokens_used": 800, "latency_ms": 200, "error": "timeout"}
+{"timestamp": "2026-10-16T11:51:00", "tokens_used": 1200, "latency_ms": 300, "error": "", "prompt": "prompt_1", "response": "response_1", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:52:00", "tokens_used": 1100, "latency_ms": 400, "error": "", "prompt": "prompt_2", "response": "response_2", "model": "Gemini 1.5 Pro"}
+{"timestamp": "2026-10-16T11:53:00", "tokens_used": 700, "latency_ms": 500, "error": "", "prompt": "prompt_3", "response": "response_3", "model": "Gemini 1.5 Pro"}
